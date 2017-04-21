@@ -1,1 +1,1 @@
-# tdd-java-example-junit  [![Build Status](https://travis-ci.com/nickiovino/tdd-java-example-junit.svg?token=CDg3TBvhyyg2vT5h8zTS&branch=master)](https://travis-ci.com/nickiovino/tdd-java-example-junit)
+# tdd-java-example-junit  [![Build Status](https://travis-ci.com/nickiovino/tdd-java-example-junit.svg?token=CDg3TBvhyyg2vT5h8zTS&branch=master)](https://travis-ci.com/nickiovino/tdd-java-example-junit)  [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()  [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
